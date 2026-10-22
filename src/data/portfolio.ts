@@ -85,7 +85,6 @@ export const projects: Project[] = [
     features: ["Monitoring dashboard concept","Computer-vision-based security concepts","Collaborative repository (RobelAwet branch)"],
     tags: ["AI", "Computer Vision", "Dashboard"],
     repo: "https://github.com/Bereket-Mussie/campus-security-ai/tree/RobelAwet",
-    status: "AI security project · in development",
   },
   {
     id: "hms",
@@ -95,7 +94,7 @@ export const projects: Project[] = [
     details: "A management application concept covering hotel operations and administrative workflows. Demo available on request.",
     features: ["Organizes hotel operations","Administrative workflow management","Database-driven records"],
     tags: ["Business System", "Database"],
-    status: "Private · Demo available on request",
+    // status: "Private · Demo available on request",
   },
   {
     id: "sms",
@@ -105,7 +104,7 @@ export const projects: Project[] = [
     details: "A system for school administration and information management. More details coming soon.",
     features: ["Supports school administration","Information management for school records"],
     tags: ["Business System", "Database"],
-    status: "Details coming soon",
+    //status: "Details coming soon",
   },
 ];
 

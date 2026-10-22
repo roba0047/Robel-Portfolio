@@ -167,7 +167,6 @@ function ProjectLinks({ p }: { p: Project }) {
           Live Demo <ArrowUpRight className="size-4" />
         </a>
       )}
-      
     </div>
   );
 }
@@ -212,7 +211,6 @@ export function Projects() {
                 </ul>
                 <div className="mt-5 flex flex-wrap items-center justify-between gap-3">
                   <ProjectLinks p={p} />
-                  
                 </div>
               </div>
             </article>
